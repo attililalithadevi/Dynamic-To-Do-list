@@ -23,7 +23,7 @@ __Setup and Usage__
 __Clone the repository:__
 
 Copy code:
-git clone https://github.com/yourusername/todo-list.git
+git clone https://github.com/attililalithadevi/Dynamic-To-Do-list.git
 
 __Navigate to the project directory:__
 
@@ -44,7 +44,6 @@ __Customization__
 You can customize the appearance and functionality of the To-Do List by modifying the styles.css and script.js files. Change the fonts, colors, or even add new features as per your requirements.
 
 __ScreenShots & Screenrecordings:__
-
 
 ![Screenshot (182)](https://github.com/user-attachments/assets/876cf4bd-a216-4c64-a258-c558490182bf)
 
