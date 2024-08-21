@@ -2,6 +2,7 @@ __Dynamic To-Do List__
 
 This project is a simple and interactive To-Do List web application designed to help you manage your daily tasks efficiently. With a clean and intuitive interface, the To-Do List allows you to add, filter, and track your tasks with ease.
 
+
 __Features__
 
 __Add Tasks:__ Quickly add new tasks by typing in the input field and clicking the "Add" button.
